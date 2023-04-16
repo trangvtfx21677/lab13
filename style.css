@@ -2,8 +2,8 @@
   background-color: #000;
   background-size: cover;
   background-image: linear-gradient(
-      rgba(34, 34, 34, 0.5),
-      rgba(34, 34, 34, 0.5)
+      rgba(34, 34, 34, 0.4),
+      rgba(34, 34, 34, 0.4)
     ),
     url(./image/img1.jpg);
   height: 100vh;
@@ -14,8 +14,8 @@
   background-color: #000;
   background-size: cover;
   background-image: linear-gradient(
-      rgba(34, 34, 34, 0.5),
-      rgba(34, 34, 34, 0.5)
+      rgba(34, 34, 34, 0.4),
+      rgba(34, 34, 34, 0.4)
     ),
     url(./image/img2.jpg);
   height: 100vh;
@@ -26,8 +26,8 @@
   background-color: #000;
   background-size: cover;
   background-image: linear-gradient(
-      rgba(34, 34, 34, 0.5),
-      rgba(34, 34, 34, 0.5)
+      rgba(34, 34, 34, 0.4),
+      rgba(34, 34, 34, 0.4)
     ),
     url(./image/img3.jpg);
   height: 100vh;
